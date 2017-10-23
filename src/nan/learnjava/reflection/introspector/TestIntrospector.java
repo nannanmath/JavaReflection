@@ -1,4 +1,4 @@
-package nan.learnjava.introspector;
+package nan.learnjava.reflection.introspector;
 
 import java.beans.BeanInfo;
 import java.beans.IntrospectionException;
@@ -7,7 +7,7 @@ import java.beans.PropertyDescriptor;
 
 import org.junit.Test;
 
-import nan.learnjava.copyproperties.Person;
+import nan.learnjava.reflection.copyproperties.Person;
 
 public class TestIntrospector {
 	@Test

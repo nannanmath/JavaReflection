@@ -1,4 +1,4 @@
-package nan.learnjava.copyproperties;
+package nan.learnjava.reflection.copyproperties;
 
 public class Person {
 	private String name;

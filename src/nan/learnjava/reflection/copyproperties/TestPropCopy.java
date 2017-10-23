@@ -1,4 +1,4 @@
-package nan.learnjava.copyproperties;
+package nan.learnjava.reflection.copyproperties;
 
 import java.lang.reflect.Method;
 

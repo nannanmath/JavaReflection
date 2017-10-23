@@ -1,0 +1,8 @@
+object.class=nan.learnjava.reflection.copyproperties.Person
+object.prop1.name=name
+object.prop1.type=jave.lang.String
+object.prop1.value=tom
+
+object.prop2.name=age
+object.prop2.type=int
+object.prop2.value=20
